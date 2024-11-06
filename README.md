@@ -1,2 +1,2 @@
-# WaveFinder
-EE428 Final Project - Wave Finder
+# HouseHunter
+EE428 Final Project - HouseHunter
